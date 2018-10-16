@@ -1,5 +1,5 @@
 <template>
-	<!--2018/10/16 测试2-->
+	<!--2018/10/16 测试4-->
 		<div class="page-header text-left">
 			<img src="../assets/images/logo.png" class="logo" @mouseover="toPointer($event)" @click="toSearch"/>
         	<b-input type="text"
